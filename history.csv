@@ -1,0 +1,4 @@
+timestamp,mode,electricity_units,petrol_litres,lpg_cylinders,transport_type,shopping_habit,total_emissions_kg,green_score,score_label
+2026-04-24 11:11:07,Rule-Based,120,30,2,car,medium,322.4,495,Needs Improvement
+2026-04-25 09:00:08,ML-Based,120.0,30.0,2.0,bike,low,252.96,571,Moderate
+2026-04-25 09:00:28,Rule-Based,120.0,30.0,2.0,bike,low,261.4,562,Moderate
